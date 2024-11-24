@@ -54,8 +54,6 @@ The analysis includes the following visualizations:
 
 3. **Accidents by Road Surface Conditions**: A bar plot showing accidents categorized by road surface conditions (e.g., dry, wet).
 
-4. **Accidents by Weather Conditions**: A heatmap showing the relationship between accidents, weather conditions, and road surface conditions.
-
 ## Contributing
 
 Contributions are welcome! If you'd like to improve this project:
