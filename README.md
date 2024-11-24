@@ -56,3 +56,12 @@ The analysis includes the following visualizations:
 
 4. **Accidents by Weather Conditions**: A heatmap showing the relationship between accidents, weather conditions, and road surface conditions.
 
+## Contributing
+
+Contributions are welcome! If you'd like to improve this project:
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
